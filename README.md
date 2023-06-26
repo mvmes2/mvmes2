@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Marcos
-- 🌱 I am currently studying fullstack Web Development.
+- 🌱 I am currently fullstack Web Developer, studying FullCycle development.
 - 🚀  Hire me : www.linkedin.com/in/mvmes2
 - 💬 Ask me something: mvmes23@gmail.com
 - My web-site: https://mvmes2.github.io/Portfolio-Web/
